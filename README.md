@@ -1,0 +1,2 @@
+# FunnySentenceGenerator
+変な文章を生成するアルゴリズムです
